@@ -1,0 +1,19 @@
+[16/Mar/2023:14:18:38] (I): WordPress Instance Info:
+[16/Mar/2023:14:18:38] (I): Home URL : http://ecomwordpress.test/wordpress
+[16/Mar/2023:14:18:38] (I): Site URL : http://ecomwordpress.test/wordpress
+[16/Mar/2023:14:18:38] (I): WordPress Version : 6.1.1
+[16/Mar/2023:14:18:38] (I): Onboarding Version : 1.1.35
+[16/Mar/2023:14:18:38] (I): Multisite : No
+[16/Mar/2023:14:18:38] (I): Server Info : Apache/2.4.47 (Win64) OpenSSL/1.1.1k mod_fcgid/2.3.10-dev
+[16/Mar/2023:14:18:38] (I): PHP Version : 8.1.0
+[16/Mar/2023:14:18:38] (I): HTTPS : No
+[16/Mar/2023:14:18:38] (I): PHP Max Execution Time : 36000
+[16/Mar/2023:14:18:38] (I): PHP Max Input Vars : 1000
+[16/Mar/2023:14:18:38] (I): Max Upload Size : 2147483648
+[16/Mar/2023:14:18:38] (I): Plugins:
+[16/Mar/2023:14:18:38] (I): [PLUGIN] Otter – Page Builder Blocks &amp; Extensions for Gutenberg : v2.2.3 (ThemeIsle)
+[16/Mar/2023:14:18:38] (I): [PLUGIN] Templates Patterns Collection : v1.1.35 (ThemeIsle)
+[16/Mar/2023:14:18:38] (I): [PLUGIN] WooCommerce : v7.5.0 (Automattic)
+[16/Mar/2023:14:18:38] (P): Installing optimole-wp.
+[16/Mar/2023:14:18:43] (P): Activating optimole-wp.
+[16/Mar/2023:14:18:43] (S): Installed and activated plugins.
